@@ -1,6 +1,6 @@
 # Git Real 2
 
-## Level 1
+## Chapter 1
 
 ### Rebase
 * $ git rebase |branch| – Pulls in branch you are looking to rebase from.
@@ -15,7 +15,7 @@
 * Use **squash** to add the commit to the previous commit, making them unite as one.
 
 
-## Level 2
+## Chapter 2
 
 ### Stashing Commands
 * $ git stash save – Storing work that is not yet complete, it is an active WIP.
@@ -30,7 +30,7 @@
 * $ git stash save "message" – Adds a message to the stash.
 * $ git stash branch |name| – Checks out a new branch and drops the stash.
 
-## Level 3
+## Chapter 3
 
 ### Purging History
 * $ git clone |repository| |new location| – Clone the repository in a new location.
@@ -39,7 +39,7 @@
 * $ git filter-branch -f --tree-filter "git rm --cached --ignore-unmatch |unwanted file|" – The -f will force an overwrite of the backup.
 * git filter-branch -f --prune-empty -- --all – The --prune-empty option drops the commits that are empty and do not alter any files.
 
-## Level 4
+## Chapter 4
 
 ### Line Endings
 * $ git config --global core.autocrlf input – Changes CR/LF (Windows) to LF (Unix) on commit.
@@ -51,3 +51,26 @@
 * $ git commit -m "message" – After cherry-picking, customize the commit message.
 * $ git cherry-pick -x |sha| – Track which commit that you've cherry-picked from, since we've picked so many cherries.
 * $ git cherry-pick --signoff |sha| – Signing off tracks who cherry-picked the commit, it adds the users name and email to the commit message.
+
+## Chapter 5
+
+### Submodules
+* $ git submodule add git@example.com:css.git – Command that adds files from another repo. Submodules allows you to use shared code. A Git repo inside of a Git repo.
+* $ git add .gitmodules – Stages the submodule(s).
+* $ git commit -m "message" – As per usual, it commits the changes.
+* $ git submodule init – Initializes the submodules so that they download their own contents.
+* $ git submodule update – Checks for updates that have been made to the submodule.
+* $ git branch |name| |sha| – Create a branch with a specific (usually most recent) commit.
+* $ git merge |branch| **OR** |sha| – Merges to the master.
+* $ git push --recurse-submodules=check – Checks to see whether there are any un-pushed submodules.
+* $ git push --recurse-submodules=on-demand – Allows for submodules ti be pushed automatically.
+* $ git config alias.|name| "|command|" – Creates an alias for lengthy commands.
+
+## Chapter 6
+
+### Reflogging
+* $ git reset --hard |sha| – When you do not need your latest commit, perhaps because it causes a bug.
+* $ git log --pretty=oneline – Displays logs in a clean, one line format.
+* $ git reflog – A second log, located in your local repo, that shows commits that may have been rolledback.
+* $ git reset --hard |sha| OR HEAD@{#} – Allows you to restore a removed commit.
+* $ git log --walk-reflog – Displays the full log format, including shortnames and messages.
