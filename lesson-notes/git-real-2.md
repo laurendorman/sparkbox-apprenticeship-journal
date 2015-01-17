@@ -35,7 +35,7 @@
 ### Purging History
 * `$ git clone |repository| |new location|` – Clone the repository in a new location.
 * `$ git filter-branch --tree-filter "rm -f |unwanted file|"` – Removes the unwanted file from the entire tree.
-* `$ git filter-branch --index-filter "git rm --cached --ignore-unmatch |unwanted file|"` – The `--index-filter` option runs the command against each commit without checking it out, so that it expedites the process. The --ignore-unmatch option will see to it that the command succeeds even if the file isn't present.
+* `$ git filter-branch --index-filter "git rm --cached --ignore-unmatch |unwanted file|"` – The `--index-filter` option runs the command against each commit without checking it out, so that it expedites the process. The `--ignore-unmatch` option will see to it that the command succeeds even if the file isn't present.
 * `$ git filter-branch -f --tree-filter "git rm --cached --ignore-unmatch |unwanted file|"` – The `-f` will force an overwrite of the backup.
 * `git filter-branch -f --prune-empty -- --all` – The `--prune-empty` option drops the commits that are empty and do not alter any files.
 
