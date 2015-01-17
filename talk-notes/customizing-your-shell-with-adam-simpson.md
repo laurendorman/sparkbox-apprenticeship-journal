@@ -7,12 +7,12 @@
 
 ## Aliases
 * Shorthand for long or not-so-easy-to-remember commands.
-* You may set temporary aliases by running the alias |name|='desired command', which may be used for your current terminal session.
+* You may set temporary aliases by running the `alias |name|='desired command'`, which may be used for your current terminal session.
 * Store aliases by putting them in a safe place (hint: your dotfiles).
 
 ## Symbolic Links (symlinks)
 * Shortcuts that link to individual files or folders without having to deal with the pain of duplicate files.
-* To create symbolic links, use the command: ln -s ~/[TARGET DIRECTORY OR FILE] ~/[SHORTCUT]
+* To create symbolic links, use the command: `ln -s ~/[TARGET DIRECTORY OR FILE] ~/[SHORTCUT]`
 
 ## Good Starting Points (Files)
 * .bash_profile
