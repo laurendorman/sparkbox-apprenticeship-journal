@@ -19,4 +19,4 @@
 * `$ git rm "*.extension"` – Removes all of the files from the disk and staging.
 * `$ git merge |branch|` – Merges branch with master (if you've checkout to master, of course).
 * `$ git branch -d |branch|` – Once successfully merged, you may delete the branch.
-* `$ git push` – Pushes all of the changes to your remote repository.
+* `$ git push` – Pushes all of the changes to your remote repository.git rm

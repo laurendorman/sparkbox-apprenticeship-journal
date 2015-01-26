@@ -52,7 +52,7 @@
 * `$ git checkout -- |file|` – Discards changes. `--` ensures that you don't checkout a branch accidentally.
 
 ### Remote Repos & Pushing
-* `$ git remote add origin |repository address|` – Adding a remote repository. Origin is the remote repository name.
+* `$ git remote set-url |repository address|` – Adding a remote repository. Origin is the remote repository name.
 * `$ git push -u origin master` – Pushing to the remote repository and setting it as your default push area.
 
 ## Chapter 3
