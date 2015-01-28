@@ -6,4 +6,8 @@ Working through Ruby Koans was a weeklong adventure.
 
 ## Ruby Bits 1
 
+
 ## Additional Resources
+[Why's Poignant Guide to Ruby][]
+
+[Why's Poignant Guide to Ruby]: https://cloud.github.com/downloads/mislav/poignant-guide/whys-poignant-guide-to-ruby.pdf
