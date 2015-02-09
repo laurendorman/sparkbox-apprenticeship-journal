@@ -17,9 +17,9 @@ When I say pingpong is a big deal at Sparkbox, pingpong is a big deal at Sparkbo
 Drew helped with my serve, which in turn helped with my over all playing capabilities. I can get extremely competitive when it comes to any type of game, so I'm sure volleypong will be no different.
 
 ## The Ever So Glorious Food
-I had no idea what I was getting myself into. Friday lunches are served up family style and the food is amazing. How can you top grilled chicken and steak, a baked potato bar, asparagus, salad and sweets? The catch is that *we'll* have to top it from here on out.
+I had no idea what I was getting myself into. Friday lunches are served up family style and the food is amazing. How can you top grilled chicken and steak, a baked potato bar, asparagus, salad and sweets? The catch is that *we'll* have to top it from here on out (we'll be assisting with Friday lunches).
 
-Dan, Kasey and I have created a calendar where we've scheduled out our desert and meal plan rotation, although we all plan to share Friday's duties of cooking and cleaning. I look forward to seeing what meal ideas brew from it and showing off my kitchen skills.
+Dan, Kasey and I have created a calendar where we've scheduled out our dessert and meal plan rotation, although we all plan to share Friday's duties of cooking and cleaning. I look forward to seeing what meal ideas brew from it and showing off my kitchen skills.
 
 ## Closing Remarks
 It's a great feeling to wake up in the morning and feel excitement for what lies ahead. Everyday before I walk into the Sparkbox office I get this feeling. I am both nervous and determined. This journey isn't for the faint of heart and I am gaining confidence the more I learn.
