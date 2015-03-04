@@ -4,10 +4,10 @@
 - Gain stronger understanding of the Ruby Syntax through [Treehouse's Ruby Track][]
 - Work through Ruby Koans, again and again
 - Beat Ruby Warriors in OO
-- Begin the ever-daughnting, Game of Life
+- Begin the ever daunting, Game of Life
 
 ## With JavaScript
-- Familiary with vanilla JavaScript through Treehouse's [JavaScript Foundations][], [JavaScript Basics][], [JavaScript Loops, Arrays and Objects][] courses
+- Familiarity with vanilla JavaScript through Treehouse's [JavaScript Foundations][], [JavaScript Basics][], [JavaScript Loops, Arrays and Objects][] courses
 - Complete the [Programming Steb-by-Step: Object-Orient JavaScript - Part 1][] and [Part 2][] workshops for a better understanding of OO JavaScript
 - Beat JavaScript Warriors
 - Research Learning Tools, add to Apprenticeship Guide
