@@ -36,5 +36,5 @@
 [CodeAcademy's JavaScript Track]: http://www.codecademy.com/en/tracks/javascript
 [Programming Steb-by-Step: Object-Orient JavaScript - Part 1]: http://teamtreehouse.com/library/programming-stepbystep-objectoriented-javascript-part-1
 [Part 2]: http://teamtreehouse.com/library/programming-stepbystep-objectoriented-javascript-part-2
-[Responsive Web Design][]: http://abookapart.com/products/responsive-web-design
+[Responsive Web Design]: http://abookapart.com/products/responsive-web-design
 [Getting Started with Pattern Libraries]: http://alistapart.com/blog/post/getting-started-with-pattern-libraries
